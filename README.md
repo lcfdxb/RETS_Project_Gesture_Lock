@@ -13,7 +13,7 @@ the resource.
 similar indicator.
 
 # Demo Video
-<video src="./video.mp4" width="800px" height="600px" controls="controls"></video>
+<iframe height=498 width=510 src="\.video.mp4">
 
 
 ## 1. Hardware Design</h2>
