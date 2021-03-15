@@ -13,9 +13,7 @@ the resource.
 similar indicator.
 
 # Demo Video
-<video id="video" controls="" preload="none">
-    <source id="mp4" src="./video.mp4" type="video/mp4">
-</video>
+See video.mp4.
 
 ## 1. Hardware Design</h2>
 ### 1.1 Hardware Selection
