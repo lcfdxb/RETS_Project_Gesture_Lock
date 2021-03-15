@@ -35,7 +35,7 @@ See video.mp4.
    
    * SPI/IIC communication interface.
 
-###1.2 Pin Configuration and Connection
+### 1.2 Pin Configuration and Connection
 * I2C1 <--> MPU6050
    
    * PB7: SDA
