@@ -15,6 +15,7 @@ similar indicator.
 # Demo Video
 <video src="./video.mp4" width="800px" height="600px" controls="controls"></video>
 
+
 ## 1. Hardware Design</h2>
 ### 1.1 Hardware Selection
 * MCU: STM32F411CEU6
