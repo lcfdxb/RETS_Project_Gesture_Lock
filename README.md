@@ -13,8 +13,9 @@ the resource.
 similar indicator.
 
 # Demo Video
-<iframe height=498 width=510 src="\.video.mp4">
-
+<video id="video" controls="" preload="none">
+    <source id="mp4" src="./video.mp4" type="video/mp4">
+</video>
 
 ## 1. Hardware Design</h2>
 ### 1.1 Hardware Selection
